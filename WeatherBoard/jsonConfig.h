@@ -1,0 +1,8 @@
+#ifndef XBEEWEATHERBOARD_JSONCONFIG_H_
+#define XBEEWEATHERBOARD_JSONCONFIG_H_
+
+
+#include <ArduinoJson.h>
+
+
+#endif  /* XBEEWEATHERBOARD_JSONCONFIG_H_ */
